@@ -1,3 +1,6 @@
+// name - Keyur Hedau 
+// Student Id - 200447963
+
 let promptBtn = document.getElementById("btn");
 let resultId = document.getElementById("result");
 
